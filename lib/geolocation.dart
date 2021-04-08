@@ -106,7 +106,7 @@ class _LocationAppState extends State<LocationApp> {
                   getCurrentLocation();
                 },
                 color: Colors.blue[800],
-                child: Text("Get Current Location",
+                child: Text("SoS",
                     style: TextStyle(
                       color: Colors.white,
                     )),
